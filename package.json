@@ -1,0 +1,29 @@
+{
+  "name": "acdemy",
+  "version": "1.0.0",
+  "description": "Acdemy is a Edutech platform offering a wide array of free courses and internships sourced globally ,along with paid courses curated by Acdemy itself .User can also access a deverse selection of books and ebooks for purchace through the platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriparajp1/prjct_acdemy.git"
+  },
+  "keywords": [
+    "acdemy"
+  ],
+  "author": "Kriparaj P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriparajp1/prjct_acdemy/issues"
+  },
+  "homepage": "https://github.com/kriparajp1/prjct_acdemy#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1",
+    "nodemon": "^3.1.0"
+  }
+}

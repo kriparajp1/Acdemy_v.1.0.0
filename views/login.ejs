@@ -1,0 +1,19 @@
+
+<%- include('header') %>
+<div class="login_title">
+    <h1>Acdemy</h1>
+</div>
+<div id="algn">
+    <div id="container">
+        <p class="head">Login Here</p>
+        <form action="/login" method="POST" class="input-container">
+            <input type="email" placeholder="Enter email" name="email" class="inpt " required>
+            <input type="password" placeholder="Enter password" name="password" class="inpt " required>
+            <button type="submit" value="submit" class="btn">Login</button>
+        </form>
+        <p class="footer">Don't have account? <a href="/signup">Register</a></p>
+    </div>
+    </div>
+
+
+    <%- include('footer') %>
