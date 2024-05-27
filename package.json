@@ -4,7 +4,7 @@
   "description": "Acdemy is a Edutech platform offering a wide array of free courses and internships sourced globally ,along with paid courses curated by Acdemy itself .User can also access a deverse selection of books and ebooks for purchace through the platform",
   "main": "index.js",
   "scripts": {
-    "test": "eror: "node index"
+    "test": "node index"
   },
   "repository": {
     "type": "git",
